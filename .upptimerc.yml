@@ -17,10 +17,10 @@ sites:
     url: https://ha.lunros.me
   - name: Vaultwarden
     url: https://vaultwarden.lunros.me
-  - name: Minecraft Server
-    check: "tcp-ping"
-    url: mc.lunros.me
-    port: 25565
+  #- name: Minecraft Server
+  #  check: "tcp-ping"
+  #  url: mc.lunros.me
+  #  port: 25565
   
     
 
