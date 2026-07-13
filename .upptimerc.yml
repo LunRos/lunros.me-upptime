@@ -3,8 +3,26 @@ owner: LunRos # Your GitHub organization or username, where this repository live
 repo: lunros.me-upptime # The name of this repository
 
 sites:
-  - name: Main Site
+  - name: Main Site/Link in Bio
     url: https://lunros.me
+  - name: ZipLine Files
+    url: https://files.lunros.me
+  - name: ZipLine Links
+    url: https://link.lunros.me
+  - name: Jellyfin
+    url: https://jellyfin.lunros.me
+  - name: Navidrome
+    url: https://music.lunros.me
+  - name: Home Assistant
+    url: https://ha.lunros.me
+  - name: Vaultwarden
+    url: https://vaultwarden.lunros.me
+  - name: Minecraft Server
+    check: "tcp-ping"
+    url: mc.lunros.me
+    port: 25565
+  
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,11 +33,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime**"
   introMessage: This is the status page for lunros.me and its subdomains. Created using [Upptime](https://github.com/upptime/upptime).
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
