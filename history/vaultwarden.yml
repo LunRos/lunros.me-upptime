@@ -1,7 +1,7 @@
 url: https://vaultwarden.lunros.me
-status: up
-code: 200
-responseTime: 214
-lastUpdated: 2026-08-07T23:23:10.953Z
+status: down
+code: 522
+responseTime: 19347
+lastUpdated: 2026-08-08T20:06:35.005Z
 startTime: 2026-07-13T22:00:52.990Z
 generator: Upptime <https://github.com/upptime/upptime>
