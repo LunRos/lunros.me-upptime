@@ -4,19 +4,20 @@
     "url": "https://lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/lunros.me.ico",
     "slug": "main-site-link-in-bio",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 88
+      "2026-08-07": 88,
+      "2026-08-08": 7
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://files.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/files.lunros.me.ico",
     "slug": "zip-line-files",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 1272,
-    "timeDay": 5306,
-    "timeWeek": 2767,
-    "timeMonth": 1272,
-    "timeYear": 1272,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1880,
+    "timeDay": 6771,
+    "timeWeek": 4442,
+    "timeMonth": 1880,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-08-07": 87
+      "2026-08-07": 87,
+      "2026-08-08": 6
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://link.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/link.lunros.me.ico",
     "slug": "zip-line-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
-    "time": 1284,
-    "timeDay": 5273,
-    "timeWeek": 2689,
-    "timeMonth": 1284,
-    "timeYear": 1284,
+    "time": 1897,
+    "timeDay": 6783,
+    "timeWeek": 4386,
+    "timeMonth": 1897,
+    "timeYear": 1897,
     "dailyMinutesDown": {
-      "2026-08-07": 86
+      "2026-08-07": 86,
+      "2026-08-08": 5
     }
   },
   {
@@ -64,19 +67,20 @@
     "url": "https://jellyfin.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.lunros.me.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1231,
-    "timeDay": 5170,
-    "timeWeek": 2643,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1844,
+    "timeDay": 6759,
+    "timeWeek": 4341,
+    "timeMonth": 1844,
+    "timeYear": 1844,
     "dailyMinutesDown": {
-      "2026-08-07": 85
+      "2026-08-07": 85,
+      "2026-08-08": 4
     }
   },
   {
@@ -84,19 +88,20 @@
     "url": "https://music.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/music.lunros.me.ico",
     "slug": "navidrome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 1271,
-    "timeDay": 5201,
-    "timeWeek": 2645,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "time": 1876,
+    "timeDay": 6699,
+    "timeWeek": 4322,
+    "timeMonth": 1876,
+    "timeYear": 1876,
     "dailyMinutesDown": {
-      "2026-08-07": 83
+      "2026-08-07": 83,
+      "2026-08-08": 3
     }
   },
   {
@@ -104,19 +109,20 @@
     "url": "https://ha.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/ha.lunros.me.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 986,
-    "timeDay": 5085,
-    "timeWeek": 2427,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1604,
+    "timeDay": 6653,
+    "timeWeek": 4135,
+    "timeMonth": 1604,
+    "timeYear": 1604,
     "dailyMinutesDown": {
-      "2026-08-07": 82
+      "2026-08-07": 82,
+      "2026-08-08": 1
     }
   },
   {
@@ -124,19 +130,20 @@
     "url": "https://vaultwarden.lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.lunros.me.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 1001,
-    "timeDay": 5089,
-    "timeWeek": 2434,
-    "timeMonth": 1001,
-    "timeYear": 1001,
+    "time": 1613,
+    "timeDay": 6586,
+    "timeWeek": 4125,
+    "timeMonth": 1613,
+    "timeYear": 1613,
     "dailyMinutesDown": {
-      "2026-08-07": 81
+      "2026-08-07": 81,
+      "2026-08-08": 0
     }
   }
 ]
