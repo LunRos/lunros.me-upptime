@@ -4,12 +4,12 @@
     "url": "https://lunros.me",
     "icon": "https://icons.duckduckgo.com/ip3/lunros.me.ico",
     "slug": "main-site-link-in-bio",
-    "status": "down",
-    "uptime": "98.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.55%",
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -20,7 +20,7 @@
       "2026-08-08": 240,
       "2026-08-10": 138,
       "2026-08-14": 266,
-      "2026-08-17": 0
+      "2026-08-17": 6
     }
   },
   {
